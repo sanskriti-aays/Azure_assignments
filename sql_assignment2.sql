@@ -1,0 +1,1 @@
+SELECT emp_no, salary * 1.30 AS increased_salary FROM salaries;
